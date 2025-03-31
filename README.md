@@ -16,3 +16,6 @@ python app.py
 - 3.7이상 Python버전 필요
 - model파일 안에 labels, keras_model.h5파일 필요
 - 컴퓨터 or 노트북에 카메라 필요
+
+- ![Uploading 스크린샷 2025-03-31 170014.png…]()
+
